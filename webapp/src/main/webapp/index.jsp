@@ -4,3 +4,8 @@
 <h2> Let begun with Krishna Drawnig: </h2>
 <h2> Krishna Drawnig completed : </h2>
 <h2> Dhathri Will Teach Dance Now : </h2>
+<h1> Lets start Running race  </h1>
+<h2> Ruuuning Race result: </h2>
+<h2> Dhathri: FIRST PLACE </h2>
+<h2> Deeksha: SECOND PLACE </h2>
+<h2> Yashika: THIRD PLACE </h2>
